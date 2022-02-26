@@ -59,6 +59,12 @@ They have passwords. Sending sms to customers using restful api
 can, can see sms reports (records), sms report
 You can see the details and get these reports according to the date filter.
 
+# Features
+Laravel as API infrastructure, 
+Mysql as database, 
+Tymon/Auth for security and 
+swagger UI for Api frontend were used.
+
 
 # Swagger UI setup and annotation definitions were made.
 
