@@ -101,4 +101,5 @@ You can see the detail of a report you want.
 ![id detail](https://user-images.githubusercontent.com/43759769/155843280-dc451ff7-e755-431c-bd6f-b6652a24fc3e.png)
 
 # Unit Test
-
+As an example, user registration and login unit test application
+![testauth](https://user-images.githubusercontent.com/43759769/155844330-91e7ffa7-268b-4d72-a56e-dddd4e5cf707.png)
